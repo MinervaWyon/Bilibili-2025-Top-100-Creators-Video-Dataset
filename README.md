@@ -1,7 +1,7 @@
 # Bilibili 2025年度百大UP主视频数据集
 
 **项目名称**：Bilibili 2025 Top 100 Creators Video Dataset / B站2025百大UP主视频信息数据集  
-**数据文件**：`bilibili_2025_top100_video_details.xlsx`（或原文件 `video_details.xlsx`）
+**数据文件**：video_details.xlsx
 
 本数据集收录了2025年B站（哔哩哔哩）百大UP主的部分视频详细数据。数据涵盖了多位知名UP主的数千条视频，包含播放量、互动指标、发布时间等关键信息，可用于分析UP主的内容表现、用户行为、视频流行趋势等。
 
